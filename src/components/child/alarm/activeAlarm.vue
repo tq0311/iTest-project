@@ -147,8 +147,7 @@
 				pagesize: 10, // 每页的数据条数
 				currentPage: 1, // 默认开始页面
 				pageSizes: [10, 20, 30, 40, 50],
-				tableData: [],
-				abc: 123
+				tableData: []
 			}
 		},
 		computed: {
